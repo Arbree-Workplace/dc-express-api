@@ -11,13 +11,10 @@ module.exports = {
   secretOrKey: 'YOUR_OWN_SECRET'
 };
 ```
-App Info
-Author
-Mahmudul Hassan
+## App Info
 
-Version
+Author: Mahmudul Hassan
 
-1.0.0
-License
+Version: 1.0.0
 
-This project is licensed under the MIT License
+License: This project is licensed under the MIT License
