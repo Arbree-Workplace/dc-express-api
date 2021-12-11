@@ -5,12 +5,12 @@
 `$ npm run server`
 
 You will need to create a keys_dev.js in the server config folder with
-
+```js
 module.exports = {
   mongoURI: 'YOUR_OWN_MONGO_URI',
   secretOrKey: 'YOUR_OWN_SECRET'
 };
-
+```
 App Info
 Author
 Mahmudul Hassan
